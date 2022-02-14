@@ -12,7 +12,7 @@ typedef struct config {
  * to the struct on success or NULL on failure.
 */
 config_t* parse_command_line_arguments(int argc, char* argv[]) {
-    config_t* config = malloc(sizeof(config_t));
+    config_t* config = malloc(12);
 
     if (argc != 3) {
         return NULL;

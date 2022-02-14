@@ -5,9 +5,9 @@ int main() {
     // For each print, answer the following questions:
     // * What gets printed?
     // * Is there undefined behavior?
-    // * Is a segfualt possible?
+    // * Is a segfault possible?
     
-
+    // 1. 
     int my_int;
     printf("The value of my_int is %d\n", my_int);
 
@@ -40,14 +40,7 @@ int main() {
 
 
 
-
-
-
-
-
-
-
-
+    // 2.
     my_int = 5;
     printf("my_int is now %d\n", my_int);
 
@@ -80,17 +73,10 @@ int main() {
 
 
 
-
-
-
-
-
-
-
-
-
+    // 3. 
     char* my_str;
     printf("my_str is %s\n", my_str);
+ 
 
 
 
@@ -119,17 +105,8 @@ int main() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+   
+    // 4.
     my_str[0] = 'H';
     my_str[1] = 'i';
     my_str[2] = '!';
@@ -164,16 +141,7 @@ int main() {
 
 
 
-
-
-
-
-
-
-
-
-
-
+    // 5.
     my_str = malloc(3);
     my_str[0] = 'H';
     my_str[1] = 'i';
@@ -210,16 +178,7 @@ int main() {
 
 
 
-
-
-
-
-
-
-
-
-
-    
+    // 6.
     my_str = malloc(4);
     my_str[0] = 'H';
     my_str[1] = 'i';
@@ -256,17 +215,7 @@ int main() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+    // 7.
     my_str = "Hi!";
     printf("my_str is %s\n", my_str);
 
