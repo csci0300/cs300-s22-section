@@ -32,6 +32,13 @@ In here, you will implement a basic multi-threaded version of the prime finding 
 In here, you'll improve on `primefinder-threads.cc` by more evenly distributing the work among
 threads.
 
+### `primefinder-ends.cc`
+
+> Please don't open this file until you're done with `primefinder-queue.cc`!
+
+In here, you'll build on `primefinder-queue.cc`, and print out any prime that ends in a specific
+digit (currently `ENDS_IN = 7`) on demand.
+
 ## Debugging
 
 ### `transactions-deadlock.cc`
