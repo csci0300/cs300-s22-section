@@ -1,0 +1,107 @@
+[
+  {
+    "arguments": [
+      "/usr/local/Cellar/gcc/11.2.0_3/bin/g++",
+      "-c",
+      "-std=gnu++17",
+      "-W",
+      "-Wall",
+      "-Wshadow",
+      "-Wno-unused-result",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-Werror",
+      "-O0",
+      "-o",
+      "sample01",
+      "sample01.cc"
+    ],
+    "directory": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5",
+    "file": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/sample01.cc",
+    "output": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/sample01"
+  },
+  {
+    "arguments": [
+      "/usr/local/Cellar/gcc/11.2.0_3/bin/g++",
+      "-c",
+      "-std=gnu++17",
+      "-W",
+      "-Wall",
+      "-Wshadow",
+      "-Wno-unused-result",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-Werror",
+      "-O0",
+      "-o",
+      "sample02",
+      "sample02.cc"
+    ],
+    "directory": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5",
+    "file": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/sample02.cc",
+    "output": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/sample02"
+  },
+  {
+    "arguments": [
+      "/usr/local/Cellar/gcc/11.2.0_3/bin/g++",
+      "-c",
+      "-std=gnu++17",
+      "-W",
+      "-Wall",
+      "-Wshadow",
+      "-Wno-unused-result",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-Werror",
+      "-O0",
+      "-o",
+      "primefinder-naive",
+      "primefinder-naive.cc"
+    ],
+    "directory": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5",
+    "file": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/primefinder-naive.cc",
+    "output": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/primefinder-naive"
+  },
+  {
+    "arguments": [
+      "/usr/local/Cellar/gcc/11.2.0_3/bin/g++",
+      "-c",
+      "-std=gnu++17",
+      "-W",
+      "-Wall",
+      "-Wshadow",
+      "-Wno-unused-result",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-Werror",
+      "-O0",
+      "-o",
+      "primefinder-threads-sol",
+      "primefinder-threads-sol.cc"
+    ],
+    "directory": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5",
+    "file": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/primefinder-threads-sol.cc",
+    "output": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/primefinder-threads-sol"
+  },
+  {
+    "arguments": [
+      "/usr/local/Cellar/gcc/11.2.0_3/bin/g++",
+      "-c",
+      "-std=gnu++17",
+      "-W",
+      "-Wall",
+      "-Wshadow",
+      "-Wno-unused-result",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-Werror",
+      "-O0",
+      "-o",
+      "primefinder-threads",
+      "primefinder-threads.cc"
+    ],
+    "directory": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5",
+    "file": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/primefinder-threads.cc",
+    "output": "/Users/ringtack/Desktop/nosync.nosync/Brown.nosync/sp22/cs300-uta/home/cs300-s22-section-dev/sec5/primefinder-threads"
+  }
+]
